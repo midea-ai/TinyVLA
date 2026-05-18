@@ -7,14 +7,16 @@ for Robotic Manipulation</h1>
   [IEEE RAL](https://ieeexplore.ieee.org/abstract/document/10900471)
 
 ## 📰 Authors
-Junjie Wen1,3, Yichen Zhu2, Member, IEEE, Jinming Li3,6, Minjie Zhu1,3, Zhibin Tang2, Kun Wu4, Zhiyuan Xu5,Ning Liu5, Ran heng2, Chaomin Shen1, Yaxin Peng6, Feifei Feng2, and Jian Tang5, Fellow, IEEE
-1 Junjie Wen, Minjie Zhu, and Chaomin Shen are with East China Normal University, Shanghai 200042, China. {jjwen,mjzhu}@stu.ecnu.edu.cn, cmshen@cs.ecnu.edu.cn
-2 Yichen Zhu, Ran Cheng, Zhibin Tang, and Feifei Feng are with Midea Group, AI Lab, Shanghai 201700, China. {zhuyc25, tangzb,ningliu22, chengran, feifei.feng}@midea.com
-3 Junjie Wen, Minjie Zhu, and Jinming Li are interned at Midea Group,AI Lab, Shanghai 201700, China.
-4 Kun Wu is with Syracuse University, New York 13244, USA. kwu102@syr.edu
-5 Zhiyuan Xu, Ning Liu, and Jian Tang are with Beijing Innovation Center of Humanoid Robotics, Beijing 102676, China. {eric.xu,neil.liu, jian.tang}@x - humanoid.com
-6 Jinming Li and Yaxin Peng are with Shanghai University, Shanghai 201900, China. {ljm2022, yaxin.peng}@shu.edu.cn
+* Junjie Wen 1,3; Yichen Zhu 2; Jinming Li 3,6; Minjie Zhu 1,3; Zhibin Tang 2; Kun Wu 4; Zhiyuan Xu 5; Ning Liu 5; Ran heng 2; Chaomin Shen 1; Yaxin Peng 6; Feifei Feng 2; and Jian Tang 5<br>
+```bash
+* 1 Junjie Wen, Minjie Zhu, and Chaomin Shen are with East China Normal University, Shanghai 200042, China. {jjwen,mjzhu}@stu.ecnu.edu.cn, cmshen@cs.ecnu.edu.cn
+* 2 Yichen Zhu, Ran Cheng, Zhibin Tang, and Feifei Feng are with Midea Group, AI Lab, Shanghai 201700, China. {zhuyc25, tangzb,ningliu22, chengran, feifei.feng}@midea.com
+* 3 Junjie Wen, Minjie Zhu, and Jinming Li are interned at Midea Group,AI Lab, Shanghai 201700, China.
+* 4 Kun Wu is with Syracuse University, New York 13244, USA. kwu102@syr.edu
+* 5 Zhiyuan Xu, Ning Liu, and Jian Tang are with Beijing Innovation Center of Humanoid Robotics, Beijing 102676, China. {eric.xu,neil.liu, jian.tang}@x - humanoid.com
+* 6 Jinming Li and Yaxin Peng are with Shanghai University, Shanghai 201900, China. {ljm2022, yaxin.peng}@shu.edu.cn
 Junjie Wen and Yichen Zhu are co-first authors. Yichen Zhu and Chaomin Shen are the corresponding authors.
+```
 
 ## 📰 News
 * **`Feb. 17th, 2025`**: 🔥🔥🔥Our code is released!
